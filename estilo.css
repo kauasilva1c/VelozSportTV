@@ -1,5 +1,25 @@
-h1{
-font-size: 60px;
-color: red
+: ROOT{
+    --cor-texto-principal:#FFFFFF ;
+    --cor-texto-secundario: #f54c4c; 
+    --botao-principal: #646c75;
+    --botao-secundario: #e44747;
+}
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--botao-secundario);
+    color:var(--cor-texto-principal)
+}
+
+.principal{
+background-image: url(Background.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.cover{
+    height: 100vh;
 }
