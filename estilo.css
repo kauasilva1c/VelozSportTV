@@ -12,7 +12,7 @@
 
 body{
     background-color: var(--botao-secundario);
-    color:var(--cor-texto-principal)
+    color:var(--cor-texto-principal);
 }
 
 .principal{
