@@ -22,4 +22,20 @@ background-size: cover;
 }
 .cover{
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+
 }
+
+.cover--botao{
+    background-color: var(--botao-principal);
+    color: var(--botao-secundario);
+    padding: 1em;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.botao--secundario(
+    background-color: tranparente;
+    border: 2px solid var(--cor-texto-principal);
+)
