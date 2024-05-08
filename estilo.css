@@ -35,7 +35,13 @@ background-size: cover;
     text-decoration: none;
 }
 
-.botao--secundario(
+.botao--secundario{
     background-color: tranparente;
     border: 2px solid var(--cor-texto-principal);
-)
+}
+.covr--caixa{
+    margin: 0 6em;
+}
+.cover--img{
+    margin: 1em 0 2em 0; 
+}
