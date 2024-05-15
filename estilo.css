@@ -47,7 +47,7 @@ h1{
 
 .botao--secundario{
     background-color: transparent;
-    color: #9c0000;
+    color: #000000;
 
     border: 2px solid var(--cor-texto-principal);
 }
