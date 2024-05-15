@@ -43,7 +43,7 @@ h1{
     padding: 1em;
     border-radius: 4px;
     text-decoration: none;
-}
+    margin: 25px;
 
 .botao--secundario{
     background-color: transparent;
