@@ -1,8 +1,8 @@
 :root{
-    --cor-texto-principal:#FFFFFF ;
-    --cor-texto-secundario: #f54c4c; 
-    --botao-principal: #557192;
-    --botao-secundario: #e44747;
+    --cor-texto-principal:#ffffff ;
+    --cor-texto-secundario: #000000; 
+    --botao-principal: #b10000;
+    --botao-secundario: #0058bd;
 }
 
 body{
